@@ -28,5 +28,4 @@ To add information on a bidimensional store the method is add2D.
 
 To add information on a tridimensional store the methods is add3D.
 
-
-These class is still in development. So be pacient and soon it will be avaliable.
+This class is still in development. So be pacient and soon it will be avaliable.
